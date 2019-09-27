@@ -3,7 +3,6 @@
 //  ScrollView
 //
 //  Created by Christian Menschel on 23.09.19.
-//  Copyright © 2019 Breuninger GmbH. All rights reserved.
 //
 
 import UIKit
